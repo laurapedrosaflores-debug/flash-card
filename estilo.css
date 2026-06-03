@@ -7,12 +7,12 @@
     padding: 15px 25px;
 }
 .cartao{
-    width: 100px;
-    height: 100 px;
+    width: 260px;
+    height: 200 px;
 }
 
 .cartao-imagem{
-    width: 100% ;
+    width: 80% ;
 }
 
 body{ 
