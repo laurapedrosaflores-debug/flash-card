@@ -10,6 +10,11 @@
     width: 260px;
     height: 200 px;
 }
+
+.cartao-imagem{
+    width: 100% ;
+}
+
 body{ 
     background-color: pink;
 }
