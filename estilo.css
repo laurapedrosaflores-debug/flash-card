@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: white
+    background-color: white;
 }
 .cartao{
     width: 260px;
@@ -31,9 +31,10 @@ flex: 1;
 
 }
 .cabecalho-link{
+color:white;
+text-decoration:none;
 
-color:white
 }
 h1{ 
-    color: white
+    color: white;
 }
