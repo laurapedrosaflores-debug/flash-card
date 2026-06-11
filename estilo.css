@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: white;
+    background-color: rgb(165, 9, 35);
 }
 .cartao{
     width: 260px;
@@ -23,7 +23,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: rgb(165, 9, 35);
+    background-color:white;
 }
 
 main{
