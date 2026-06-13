@@ -46,10 +46,11 @@ h2{
 footer{ 
     background-color: rgb(165, 9, 35); 
     padding: 15px 25px;
-    color:gold
+    color:gold;
 }
 .cartao-interno{
     position: relative;
+    transition: transform 0.8s;
 }
 .cartao-frente, .cartao-verso{
     position: absolute;
