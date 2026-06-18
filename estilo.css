@@ -61,6 +61,7 @@ footer{
     box-shadow: 0px 6px 12px  rgba(208, 128, 8, 0.849);
     backface-visibility: hidden;
 }
+
 .cartao:hover  .cartao-interno{
    transform: rotateY(180deg);
 }
