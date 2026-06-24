@@ -62,7 +62,7 @@ footer{
     backface-visibility: hidden;
 }
 
-.cartao:hover  .cartao-interno{
+.cartao:hover .cartao-interno{
    transform: rotateY(180deg);
 }
  .cartao-verso{
